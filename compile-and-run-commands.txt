@@ -1,0 +1,11 @@
+The .class file has been created using cmd in Windows 7. For doing so, a notepad doc needs to be created first
+with the code pasted in it. The file should then be named exactly like the class is named, in my case: SumTwoNumbers.java as
+as it also case sensitive. The command prompt should then be started and the directory should be changed to match
+the directory in which the file has been saved (using the first command from bellow: cd followed by the path).
+ 
+The command needed to compile the code is javac followed by the name of the file. Another file should be created
+in the same directory as the first one. Code in the cmd:
+ 
+cd C:\Users\user\Desktop
+ 
+javac SumTwoNumbers.java
